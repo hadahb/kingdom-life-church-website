@@ -55,11 +55,4 @@ kingdom-life-church-website/
 
 ## Setup
 
-To run this website locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/hadahb/kingdom-life-church-website.git
-Open index.html in your browser.
-
-No additional server setup is required since it is a static website.
+To run this website, visit https://klcmw.netlify.app
